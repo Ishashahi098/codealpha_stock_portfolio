@@ -1,0 +1,7 @@
+STOCK PORTFOLIO REPORT
+============================
+AAPL | Price: 180 | Quantity: 4 | Investment: 720
+GOOGL | Price: 140 | Quantity: 5 | Investment: 700
+AMZN | Price: 150 | Quantity: 6 | Investment: 900
+============================
+Total Investment = 2320
